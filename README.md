@@ -12,13 +12,13 @@ Display the 2 cards each player is dealt and the display the 5 community cards. 
 ## Example:
 How many players (2-8) ? 3
 
-Your hand: 2 of Clubs, 5 of Diamonds
+```Your hand: 2 of Clubs, 5 of Diamonds
 CPU 1 Hand: Ace of Spades, Ace of Hearts
 CPU 2 Hand: King of Clubs, Queen of Clubs
 
 Flop: 2 of Hearts, 5 of Clubs, Ace of Clubs
 Turn: King of Hearts
-River: Jack of Hearts
+River: Jack of Hearts```
 
 ## Dealing Cards:
 To keep things close to the game you will be dealing from 1 deck of standard playing cards. Once you deal that card you cannot deal it again. The exact method is part of the challenge and for you to decide, design and implement. In Texas Hold em you burn a card (draw and discard without looking at it) before you do the flop, turn and river. It removes these cards from the pool of possible cards that can be dealt. If you wish to show these cards (I did not in my example) then please for science go for it.
